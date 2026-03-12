@@ -3,7 +3,15 @@ GAN for generating pokemon sprites
 
 ## Quickstart:
 
-In a virtual environment with Python 3.7+, install everything in `requirements.txt`. Then, run `test.py`
+In terminal, run the follow commands one by one:
+
+`conda create -n pokemon python==3.10`
+
+`conda activate pokemon`
+
+`pip install -r requirements.txt `
+
+`python test.py`
 
 # Samples:
 
