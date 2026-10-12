@@ -1,7 +1,7 @@
 certifi==2020.6.20
 cycler==0.10.0
 future==0.18.2
-kiwisolver==1.2.0
+kiwisolver
 matplotlib
 pyparsing==2.4.7
 python-dateutil==2.8.1
@@ -11,4 +11,5 @@ torchaudio==0.11.0
 torchvision==0.12.0
 typing-extensions==3.10.0.2
 tqdm
+numpy<2
 
